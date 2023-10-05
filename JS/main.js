@@ -18,10 +18,10 @@ while (number1 < 21) {
 
 //opdracht 3
 
-let number2 = 0;
-while (number2 < 10) {
+let number2 = 10;
+while (number2 >= 0) {
     console.log(number2);
-    number2++;
+    number2--;
 }
     console.log('einde programma')
 
